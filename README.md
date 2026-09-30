@@ -2,6 +2,8 @@
 
 **Profissional de TI ➔ Desenvolvedor Full Stack em formação**
 
+<br>
+
 <p align="center">
   <img src="https://demolab.com" alt="Typing SVG" />
 </p>
