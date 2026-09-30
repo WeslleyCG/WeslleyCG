@@ -4,9 +4,12 @@
 
 <br>
 
-![Typing SVG](https://demolab.com)
+<p align="center">
+  <img src="https://herokuapp.com" alt="Typing SVG" />
+</p>
 
 <br>
+
 
 ## 🚀 Sobre Mim
 Com mais de **20 anos de experiência na área de Tecnologia**, possuo uma sólida bagagem em **Infraestrutura e Suporte Avançado**. Atualmente, estou expandindo meus horizontes e focando minha carreira no **Desenvolvimento Full Stack**, transformando toda essa vivência técnica em soluções lógicas e códigos eficientes.
