@@ -4,13 +4,10 @@
 
 <br>
 
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
+![Typing SVG](https://demolab.com)
 
-<p align="center">
-  <img src="https://komarev.com" alt="Visitas ao perfil" />
-</p>
+![Visitas ao perfil](https://komarev.com)
+
 
 ---
 
