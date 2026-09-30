@@ -1,13 +1,13 @@
-# 👨‍💻 Olá, eu sou Weslley!
+# 👤 Olá, eu sou Weslley!
 
-**Profissional de TI → Desenvolvedor Full Stack em formação**
+**Profissional de TI ➔ Desenvolvedor Full Stack em formação**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Mais+de+20+anos+em+Tecnologia;Infraestrutura+%7C+Suporte+%7C+Desenvolvimento;Estudando+Full+Stack;Transformando+experi%C3%AAncia+em+c%C3%B3digo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WeslleyCG&label=VISITAS+AO+PERFIL&color=00F7FF&style=for-the-badge" alt="Visitas ao perfil" />
+  <img src="https://komarev.com" alt="Visitas ao perfil" />
 </p>
 
 ---
